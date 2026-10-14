@@ -1,2 +1,1 @@
-# components-allinApp-nextjs-typescript
-All code is used in app/page.tsx
+# All Components in app/page.tsx
